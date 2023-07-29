@@ -11,3 +11,9 @@ Ensure that all image files (car1.jpg, grass.jpg, y_strip.jpg, strip.jpg, start.
 
 Open a terminal or command prompt and navigate to the project directory.
 
+## Game Controls
+LEFT Arrow Key: Move the car to the left.
+RIGHT Arrow Key: Move the car to the right.
+'s' Key: Increase the car speed.
+'b' Key: Decrease the car speed.
+QUIT Button: Exit the game.
